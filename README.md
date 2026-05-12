@@ -25,3 +25,5 @@ Apple Wallet Passes generating library for Node.js
 - Release: https://github.com/tinovyatkin/pass-js/releases/tag/v7.0.0
 
 Implemented semantic tag support for Wallet passes. The maintainer applied the work and shipped it in the project's v7.0.0 release.
+
+<!-- profile-readme-refresh -->
