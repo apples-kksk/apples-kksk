@@ -2,6 +2,8 @@
 
 I am a Linux user who works on small, practical fixes for open-source projects.
 
+I also keep a small experimental project at [GobanFTP](https://github.com/molang163/GobanFTP), a Go game where moves are filenames.
+
 ## Selected work
 
 ### mavlink/mavros
