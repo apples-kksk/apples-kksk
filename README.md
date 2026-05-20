@@ -1,6 +1,8 @@
 # Hi there, I am apples-kksk.
 
-I am a Linux user who works on small, practical fixes for open-source projects.
+I am a high school student in China and a Linux user who works on small, practical fixes for open-source projects.
+
+Contact: 123molang [at] gmail.com
 
 I also keep a small experimental project at [GobanFTP](https://github.com/molang163/GobanFTP), a Go game where moves are filenames.
 
